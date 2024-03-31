@@ -12,7 +12,7 @@ Then, go to https://rectangleapp.com and install rectangle.
 Step two: Setting up Rectangle
 After installing rectangle, click its menu on the top bar and click on settings.
 ![image](https://github.com/skillphobia/MacOS-multi-instancing-with-Keyboard-Maestro/assets/165536766/81ad6e79-e559-4ee3-985b-7b88043e1b19)
-In there, you should set up shortcuts for maimizing a window, setting the positions of windows according to how many instances you are settings up. (eg: 2 instance - Halves, 3 instances - Thirds, etc)
+In there, you should set up shortcuts for maimizing a window, setting the positions of windows according to how many instances you are settings up. (eg: 2 instance - Halves, 3 instances - Thirds, 4 instances- Fourths or Corners)
 ![image](https://github.com/skillphobia/MacOS-multi-instancing-with-Keyboard-Maestro/assets/165536766/899af5b4-76eb-42df-a0eb-9e81e0b5fed4)
 
 Step three: Setting up the macros
