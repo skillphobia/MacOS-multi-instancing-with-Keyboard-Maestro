@@ -5,6 +5,12 @@ You will need-
   Rectangle
 For this guide, I will be setting up 4 instances but you can set up as many as you'd like by changing the macros accordingly
 
+standardsettings F3Pause on world load:
+In standardsettings, you should enable an option which does the F3 + ESC keybind upon world loading, enabling this option increases visiblity and removes the need for the unfocus parts of the macros if not possible(i.e- hide dock is on).
+
+![image](https://github.com/skillphobia/MacOS-multi-instancing-with-Keyboard-Maestro/assets/165536766/5c1b3032-3e5d-4804-965c-b132e246a9bf)
+
+
 Step one: Installing Keyboard Maestro and Rectangle
 Head to https://www.keyboardmaestro.com/main/ and install Keyboard Maestro, open the file and follow the instructions to install the app.
 Then, go to https://rectangleapp.com and install rectangle.
@@ -70,10 +76,7 @@ Selecting an instance:
 
   Repeat this for all instances.
 
-Extra- standardsettings F3Pause on world load(optional):
-In standardsettings, you can enable an option which does the F3 + ESC keybind upon world loading, enabling this option increases visibility.
 
-![image](https://github.com/skillphobia/MacOS-multi-instancing-with-Keyboard-Maestro/assets/165536766/5c1b3032-3e5d-4804-965c-b132e246a9bf)
 
 
 
