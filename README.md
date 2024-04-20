@@ -1,3 +1,10 @@
+
+UPDATE!! After ~16 days, you will see a message regarding your free trial. For now, I would suggest using single-instance until a solution is found
+
+
+
+
+
 In this guide, you will learn to set up multi-instancing on MacOS with the help of Keyboard Maestro.
 You will need-
   At least 2 instances
