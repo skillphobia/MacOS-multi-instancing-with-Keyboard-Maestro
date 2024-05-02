@@ -1,6 +1,5 @@
-
-UPDATE!! After ~16 days, you will see a message regarding your free trial. For now, I would suggest using single-instance until a solution is found
-
+Free trial bypass:
+When your free trial expires, install appcleaner at https://freemacsoft.net/appcleaner/ and reinstall Keyboard Maestro after cleaning it, you will have to set up the macros again, however.
 
 
 
